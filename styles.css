@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  padding: 2rem;
+  transition: background .2s, color .2s;
+}
+
+body.dark {
+  background: #111;
+  color: #eee;
+}
+
+button {
+  font-size: 1rem;
+  padding: .5rem 1rem;
+  margin-right: .5rem;
+}
